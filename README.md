@@ -45,4 +45,10 @@ Resultado final:
 
 ![Prev](/img/tab_2.png)
 
+---
+
+---
+
+En la carpeta "Resolución" van a encontrar la resolución del ejercicio. Valga la redundancia.
+
 [Subir al índice](#top)
