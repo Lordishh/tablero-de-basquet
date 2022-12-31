@@ -6,12 +6,12 @@ Les dejo adjunto los screen con una forma de resolver el ejercicio.
 
 ### Componente `Equipo.jsx`
 
-![Prev](/resolusion/img/res_equipo.png)
+![Prev](/resolucion/img/res_equipo.png)
 
 ### Componente `Tablero.jsx`
 
-![Prev](/resolusion/img/res_tablero.png)
+![Prev](/resolucion/img/res_tablero.png)
 
 ### Funciones
 
-![Prev](/resolusion/img/res_functions.png)
+![Prev](/resolucion/img/res_functions.png)

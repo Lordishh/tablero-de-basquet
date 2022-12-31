@@ -43,7 +43,7 @@ Luego de nuestro componente podemos ver 6 botones, 3 suman y 3 restan puntos.
 
 Resultado final:
 
-![Prev](/img/tab_2.png)
+![Prev](/img/tablero.gif)
 
 ---
 
